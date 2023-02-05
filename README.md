@@ -24,7 +24,11 @@ Telemedicine and Remote Monitoring: AI and machine learning will play an increas
 Drug Discovery and Development: AI and machine learning will continue to revolutionize drug discovery and development, enabling researchers to identify new drugs and therapies more efficiently and effectively.
 
 Clinical Decision Support: AI and machine learning will become an integral part of clinical decision support, providing real-time recommendations and guidance to healthcare providers.
-![OIP (1)](https://user-images.githubusercontent.com/100529586/216464100-6a6834b6-f244-4b00-8a0c-50ab1d70b586.jpg)
+
+
+![Major-AI-Trends-Revolutionizing-Healthcare-in-The-Future](https://user-images.githubusercontent.com/100529586/216836007-0e9889c2-644f-415f-b321-f8b0d3a8078e.jpg)
+
+
 
 Wearables and Sensors: AI and machine learning will play a critical role in the development and implementation of wearable devices and sensors that can monitor and track various aspects of health and wellness.
 
@@ -46,8 +50,11 @@ Overall, machine learning has the potential to improve the accuracy, efficiency,
 6.	Predictive Analytics: Machine learning can be used to predict the risk of certain diseases and conditions, such as diabetes, heart disease, and cancer, by analyzing patient data, lifestyle factors, and other relevant information.
 In conclusion, the combination of machine learning and AI has the potential to revolutionize the healthcare industry, leading to improved patient outcomes, reduced costs, and a more efficient and effective healthcare system. 
 
-|
 
+
+
+
+![OIP (1)](https://user-images.githubusercontent.com/100529586/216464100-6a6834b6-f244-4b00-8a0c-50ab1d70b586.jpg)
 
 
 
