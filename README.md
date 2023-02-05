@@ -50,10 +50,7 @@ In conclusion, the combination of machine learning and AI has the potential to r
 
 
 
-![OIP (1)](https://user-images.githubusercontent.com/100529586/216464100-6a6834b6-f244-4b00-8a0c-50ab1d70b586.jpg)
 
 
 
-- List 1
-- List 2
-- List 3
+
