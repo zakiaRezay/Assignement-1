@@ -1,9 +1,9 @@
-# My Blog
+# How machine learning and AI predict sickout before happening
 
-## Heading 2
+## How machine learning helps in the context of the digital health
 
 
-### Heading 3
+### how machine learning and AI care in health of humans
 
 | How machine learning and AI predict sickout before happening  |  How machine learning helps in the context of the digital health | how machine learning and AI care in health of humans  |
 |---|---|---|
@@ -24,6 +24,7 @@ Telemedicine and Remote Monitoring: AI and machine learning will play an increas
 Drug Discovery and Development: AI and machine learning will continue to revolutionize drug discovery and development, enabling researchers to identify new drugs and therapies more efficiently and effectively.
 
 Clinical Decision Support: AI and machine learning will become an integral part of clinical decision support, providing real-time recommendations and guidance to healthcare providers.
+![OIP (1)](https://user-images.githubusercontent.com/100529586/216464100-6a6834b6-f244-4b00-8a0c-50ab1d70b586.jpg)
 
 Wearables and Sensors: AI and machine learning will play a critical role in the development and implementation of wearable devices and sensors that can monitor and track various aspects of health and wellness.
 
